@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "масиви", "масиви\масиви.csproj", "{D6F74D3C-A4A3-4A64-AE3E-29ACCC3CB93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "макс и мін", "макс и мін\макс и мін.csproj", "{5BEBC357-2844-4893-8E48-2628AFCF2CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "пр3", "пр3\пр3.csproj", "{3CC324E0-73A8-49D3-9B0A-F323817A72E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F74D3C-A4A3-4A64-AE3E-29ACCC3CB93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F74D3C-A4A3-4A64-AE3E-29ACCC3CB93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F74D3C-A4A3-4A64-AE3E-29ACCC3CB93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F74D3C-A4A3-4A64-AE3E-29ACCC3CB93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEBC357-2844-4893-8E48-2628AFCF2CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEBC357-2844-4893-8E48-2628AFCF2CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEBC357-2844-4893-8E48-2628AFCF2CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEBC357-2844-4893-8E48-2628AFCF2CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC324E0-73A8-49D3-9B0A-F323817A72E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC324E0-73A8-49D3-9B0A-F323817A72E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC324E0-73A8-49D3-9B0A-F323817A72E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC324E0-73A8-49D3-9B0A-F323817A72E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1920B351-CBD8-4B44-9E86-6BC8603301C5}
+	EndGlobalSection
+EndGlobal
